@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @justynpersu
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Lua
-- 📫 How to reach me justynpersu@gmail.com
+```
+     ██╗██╗   ██╗███████╗████████╗██╗   ██╗███╗   ██╗
+     ██║██║   ██║██╔════╝╚══██╔══╝╚██╗ ██╔╝████╗  ██║
+     ██║██║   ██║███████╗   ██║    ╚████╔╝ ██╔██╗ ██║
+██   ██║██║   ██║╚════██║   ██║     ╚██╔╝  ██║╚██╗██║
+╚█████╔╝╚██████╔╝███████║   ██║      ██║   ██║ ╚████║
+ ╚════╝  ╚═════╝ ╚══════╝   ╚═╝      ╚═╝   ╚═╝  ╚═══╝
 
-<!---
-justynpersu/justynpersu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+$ whoami
+justyn persu: builder, tinkerer, occasional market degen
+
+$ cat about.txt
+I build the tools I actually want to use: desktop apps for wrangling AI
+coding agents, menu-bar utilities, stream overlays, forecasting dashboards,
+games and the odd Minecraft mod. Python, Rust, Swift and JS, mostly.
+
+$ echo $STATUS
+shipping things ▍
+```
+
+📫 [justynpersu@gmail.com](mailto:justynpersu@gmail.com)
